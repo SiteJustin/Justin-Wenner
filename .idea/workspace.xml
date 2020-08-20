@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -10,7 +13,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0781dae3-2533-455a-afd2-8f558fd7557f" name="Default Changelist" comment="" />
+    <list default="true" id="0781dae3-2533-455a-afd2-8f558fd7557f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/elements/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/notloggedin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/registered.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +33,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jw/test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -166,6 +183,9 @@
       <workItem from="1597953877223" duration="592000" />
       <workItem from="1597954484629" duration="142000" />
       <workItem from="1597955157766" duration="106000" />
+      <workItem from="1597955272303" duration="90000" />
+      <workItem from="1597956030063" duration="988000" />
+      <workItem from="1597957180317" duration="512000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1597953982141</created>
@@ -181,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597954570192</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new">
+      <created>1597955299754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597955299754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,16 +231,25 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="500000" />
     <MESSAGE value="first commit" />
     <MESSAGE value="normal adjustments" />
-    <option name="LAST_COMMIT_MESSAGE" value="normal adjustments" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="729" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597956560781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597956560781" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1597955167853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597955167853" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597954080604">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597955323417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597954080604" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597955323417" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597956190145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597956190145" />
   </component>
 </project>
